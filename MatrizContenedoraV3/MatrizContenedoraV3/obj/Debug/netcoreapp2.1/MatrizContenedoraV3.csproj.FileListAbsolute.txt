@@ -1,0 +1,11 @@
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\bin\Debug\netcoreapp2.1\MatrizContenedoraV3.deps.json
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\bin\Debug\netcoreapp2.1\MatrizContenedoraV3.runtimeconfig.json
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\bin\Debug\netcoreapp2.1\MatrizContenedoraV3.runtimeconfig.dev.json
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\bin\Debug\netcoreapp2.1\MatrizContenedoraV3.dll
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\bin\Debug\netcoreapp2.1\MatrizContenedoraV3.pdb
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\obj\Debug\netcoreapp2.1\MatrizContenedoraV3.csprojAssemblyReference.cache
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\obj\Debug\netcoreapp2.1\MatrizContenedoraV3.csproj.CoreCompileInputs.cache
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\obj\Debug\netcoreapp2.1\MatrizContenedoraV3.AssemblyInfoInputs.cache
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\obj\Debug\netcoreapp2.1\MatrizContenedoraV3.AssemblyInfo.cs
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\obj\Debug\netcoreapp2.1\MatrizContenedoraV3.dll
+C:\CiscoProjects\MatrizContenedoraV3\MatrizContenedoraV3\obj\Debug\netcoreapp2.1\MatrizContenedoraV3.pdb
